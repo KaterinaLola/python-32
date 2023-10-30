@@ -1,0 +1,94 @@
+.one {
+    background-color: gray;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+
+    color: white;
+    font-size: 36px;
+    margin-left: 20%;
+}
+
+.menu {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.link {
+    color: white;
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    text-align: center;
+}
+.link:hover {
+    border-bottom: 3px solid white;
+    color: white;
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    text-align: center;
+}
+.two {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+.right {
+    width: 30%;
+    background-color: wheat;
+    box-shadow: red;
+
+}
+.right h1 {
+    margin: 0px;
+    font-size: 28px;
+}
+.right p {
+    margin: 0px;
+    font-size: 14px;
+}
+.left {
+    width: 70%;
+    margin-right: 10px;
+
+}
+.left img {
+    width: 100%;
+}
+
+.three {
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-right: 20%;
+margin-right: 20%;
+}
+hr {
+    width: 30%;
+    height: 0px;
+}
+.three h2 {
+    width: 40%;
+    text-align: center;
+}
+.four {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid black;
+}
+table {
+    width: 100%;
+}
+td {
+    border: 2px solid red;
+}
+.gray {
+    background-color: grey;
+}
+
